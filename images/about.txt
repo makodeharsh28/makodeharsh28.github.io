@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Yuji Mai
+- Font Author: Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)
+- Font Source: https://fonts.gstatic.com/s/yujimai/v5/ZgNQjPxdJ7DEHrS0gC38hmHmNpCO.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
